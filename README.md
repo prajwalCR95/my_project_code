@@ -1,2 +1,2 @@
-# my_project_code
+# udacity repo
 This is the repository of my project codes.
