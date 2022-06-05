@@ -1,13 +1,13 @@
 # udacity repo
-This is the repository for my udacity nanodegree prjects, DevOps for machine Learning.
+This is a repository to gain familiarity with git and Github.
 
-Git commands:
+## Git commands:
 
-git add
-git commit
-git log
-git push
-git clone
-git fetch-all
-git branch
-git diff
+* git add
+* git commit
+* git log
+* git push
+* git clone
+* git fetch-all
+* git branch
+* git diff
